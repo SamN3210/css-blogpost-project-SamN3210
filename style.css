@@ -8,16 +8,13 @@ body {
   text-align: center;
   margin: 50px auto;
 }
-.title {
-}
 .picture {
   background-position: center;
   height: 30vh;
 }
 .background {
   text-align: center;
-  height: 30vh;
-  width: 30vw;
+  width: 40vw;
   margin: 20px auto;
   background-color: #e1eff6;
   border: 3px solid black;
