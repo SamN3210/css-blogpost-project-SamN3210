@@ -8,14 +8,18 @@ body {
   text-align: center;
   margin: 50px auto;
 }
-.picture {
+.block_picture {
   background-position: center;
   height: 30vh;
 }
-.background {
+.block_background {
   text-align: center;
-  width: 40vw;
+  width: 35vw;
   margin: 20px auto;
   background-color: #e1eff6;
-  border: 3px solid black;
+  border: 5px solid #9ece9a;
+  padding: 10px 20px;
+}
+.inline_text {
+  color: #fc7753;
 }
